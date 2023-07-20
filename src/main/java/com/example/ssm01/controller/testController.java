@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class testController {
     @GetMapping("/hello")
     public String method1(){
-        return "helloworldddd";
+        return "hi！！！";
         //这里添加一行注释 pull下来
         //之后进行添加
     }
