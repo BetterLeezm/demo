@@ -10,9 +10,7 @@ public class testController {
     @GetMapping("/hello")
     public String method1(){
         return "hi！！！";
-        //这里添加一行注释 pull下来
-        //之后进行添加
-        //test分支进行的操作1
+        //18进行修改
 
     }
 }
