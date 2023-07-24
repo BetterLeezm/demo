@@ -10,7 +10,7 @@ public class testController {
     @GetMapping("/hello")
     public String method1(){
         return "hi！！！";
-        //18进行修改
+        //18进行修改 main添加
 
     }
 }
